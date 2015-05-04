@@ -1,0 +1,3 @@
+def getWorld():
+	return "world"
+	
